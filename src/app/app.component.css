@@ -1,0 +1,16 @@
+h1 {
+    background-color: bisque;
+    color: brown;
+    text-align: center;
+}
+h2 {
+    background-color: black;
+    color: white;
+    text-align: center;
+    border-top: 200px red;
+}
+p {
+    text-align: center;
+    font-size: 25px;
+   
+}
